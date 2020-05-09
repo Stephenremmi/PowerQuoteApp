@@ -1,0 +1,19 @@
+
+<div class="container">
+    <h1>Daily Power Quotes</h1>
+    <div class="row">
+        <div class="col-md-6">
+
+            <div *ngFor='let quote of quotes; let i = index'>
+                <p> {{quote.define}} published:{{quote.postDate|dateAgo}}</p>
+                <button (click)='toggleDetails(i)' class="btn btn-info">Details</button>
+                <app-quote-detail *ngIf='quote.showDescription' [quote]='quote'></app-quote-detail>
+            </div>
+
+        </div>
+
+        <div class="col-md-6">
+            <app-quote-form (addQuote)="addNewQuote($event)"></app-quote-form>
+        </div>
+    </div>
+</div>
