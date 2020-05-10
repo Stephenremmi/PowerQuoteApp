@@ -5,7 +5,7 @@ This project was generated with [angular CLI] version 9.1.5
 This is a landing page that displays inpirational quotes to the user and also the user can add his/her name.
 
 ## Live site
-
+Here is a link to the deployed site
 
 
 
