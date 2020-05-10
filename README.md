@@ -27,24 +27,16 @@ To build the application run **ng build --prod --base-href "https://GithubUserNa
 Finally run **npx angular-cli-ghpages --dir=dist/Project-name** to upload the repository to newly set up branch[ghpages branch].A prompt will be returned and you'll have to enter your Github username and password to complete the process.
 
 ## Built with
-Bootstrap for styling
++ Bootstrap for styling
 
+## future Plans
++ Add a like and  dislike feature
++ Add profile picture for users
 
+## Support and Contact details
+You can contact me via email:stephenremmi@gmail.com
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## License
 
 MIT License
 
