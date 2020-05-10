@@ -1,6 +1,6 @@
 # PowerQuoteApp
 Quote App is landing page that display inspirational quotes to the user and also the user can add his/her quotes to be viewed by millions of people accessing the page.
-### Author
+# Author
 
 **Stephen Remmi**
 
