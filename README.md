@@ -8,8 +8,10 @@ This is a landing page that displays inpirational quotes to the user and also th
 Here is a link to the deployed site:[https://stephenremmi.github.io/PowerQuoteApp/]
 
 ## SetUp
-Clone this repo using  **git clone** in the terminal and run install quotes to install the dependencies
+Clone this repo using  **git clone** in the terminal and run install quotes to install the dependencies.
 
+## Usage
+After cloning this repo to your desktop, go to its root directory and run npm install to install its dependencies.
 
 
 
