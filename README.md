@@ -1,6 +1,7 @@
 # PowerQuoteApp
 Quote App
 ### By Stephen Remmi
+This project was generated with [angular CLI] version 9.1.5
 
 
 
