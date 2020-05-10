@@ -8,7 +8,7 @@ This is a landing page that displays inpirational quotes to the user and also th
 Here is a link to the deployed site:[https://stephenremmi.github.io/PowerQuoteApp/]
 
 ## SetUp
-Clone this repo using  *git clone* in the terminal
+Clone this repo using  **git clone** in the terminal
 
 
 
