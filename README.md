@@ -1,8 +1,8 @@
 # PowerQuoteApp
-Quote App
-### By Stephen Remmi
-This project was generated with [angular CLI] version 9.1.5
-This is a landing page that displays inpirational quotes to the user and also the user can add his/her name.
+Quote App is landing page that display inspirational quotes to the user and also the user can add his/her quotes to be viewed by millions of people accessing the page.
+### Author
+
+**Stephen Remmi**
 
 ## Live site
 Here is a link to the deployed site:[https://stephenremmi.github.io/PowerQuoteApp/]
@@ -27,7 +27,8 @@ To build the application run **ng build --prod --base-href "https://GithubUserNa
 Finally run **npx angular-cli-ghpages --dir=dist/Project-name** to upload the repository to newly set up branch[ghpages branch].A prompt will be returned and you'll have to enter your Github username and password to complete the process.
 
 ## Built with
-+ Bootstrap for styling
++ angular 9 cli for generating components, directives and pipes.
++ Bootstrap for styling.
 
 ## future Plans
 + Add a like and  dislike feature
