@@ -13,7 +13,7 @@ Clone this repo using  **git clone** in the terminal and run install quotes to i
 ## Usage
 After cloning this repo to your desktop, go to its root directory and run **npm install** on the angular CLI to install its dependencies.
 
-Once the dependencies are installed you can run **npm start** still on the angular CLI to start the application.
+Once the dependencies are installed, run **npm start** on the angular CLI to start the application.
 
 
 
