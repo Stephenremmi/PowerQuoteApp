@@ -19,6 +19,11 @@ Run **code .** or **atom .**  depending on the IDE you are using to make any cha
 
 Once done making changes and reviewing the code use **ng serve -o** to serve your application at localhost:4200 
 
+## deploying to gh-pages
+To install angular-cli-ghpsges run **npm i angular-cli-ghpages --save-dev** for the purpose of deployment.
+To build the application run **ng build --prod --base-href "https://GithubUserName.github.io/GithubRepoName/"** for the purpose of hosting the application on a remote server.
+Finally run **npx angular-cli-ghpages --dir=dist/Project-name** to push the local repository to newly set up branch[ghpages branch].
+
 
 
 
