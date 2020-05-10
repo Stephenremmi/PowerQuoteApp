@@ -17,7 +17,7 @@ Once the dependencies are installed, run **npm start** on the angular CLI to sta
 ## Usage 
 Run **code .** or **atom .**  depending on the IDE you are using to make any changes to the project.
 
-Once done making changes and reviewing the code use **ng serve -o** to serve your application at localhost:4200 
+Once done making changes and reviewing the code use **ng serve -o** to serve your application at localhost:4200 and be able to view it in your default browser.
 
 ## deploying to gh-pages
 To install angular-cli-ghpsges run **npm i angular-cli-ghpages --save-dev** for the purpose of deployment.
