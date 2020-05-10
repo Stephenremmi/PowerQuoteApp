@@ -11,7 +11,9 @@ Here is a link to the deployed site:[https://stephenremmi.github.io/PowerQuoteAp
 Clone this repo using  **git clone** in the terminal and run install quotes to install the dependencies.
 
 ## Usage
-After cloning this repo to your desktop, go to its root directory and run npm install to install its dependencies.
+After cloning this repo to your desktop, go to its root directory and run **npm install** on the angular CLI to install its dependencies.
+
+Once the dependencies are installed you can run **npm start** still on the angular CLI to start the application.
 
 
 
