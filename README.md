@@ -31,8 +31,10 @@ Finally run **npx angular-cli-ghpages --dir=dist/Project-name** to upload the re
 + Bootstrap for styling.
 
 ## future Plans
-+ Add a like and  dislike feature
++ Add a like and  dislike feature for upvote and downvote
++ Add a comment section.
 + Add profile picture for users
++ Add theme and background color to the landing page to prove visually appealing to users.
 
 ## Support and Contact details
 You can contact me via email:stephenremmi@gmail.com
