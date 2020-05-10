@@ -15,6 +15,10 @@ After cloning this repo to your desktop, go to its root directory and run **npm 
 
 Once the dependencies are installed, run **npm start** on the angular CLI to start the application.
 
+Run **code .** or **atom .**  depending on the IDE you are using to make any changes to the project.
+
+Once done making changes and reviewing the code use **ng serve -o** to serve your application at localhost:4200 
+
 
 
 
