@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DailyQuote"
+    }
+  },
+  "defaultProject": "DailyQuote",
+  "cli": {
+    "analytics": "2ccf9c68-45ee-4ae6-a2ad-4c30125acef8"
+  }
 }
